@@ -13,8 +13,8 @@
 # password. If you'd like to change this, change svr-authpasswd.c
 
 JTOOL="$HOME/dev/jtool/jtool"
-ARCH="arm64"
-SDK="iphoneos10.2"
+ARCH="armv7"
+SDK="iphoneos10.3"
 
 SYSROOT="$(xcrun --sdk $SDK --show-sdk-path)"
 CC="$(xcrun -f --sdk $SDK clang)"

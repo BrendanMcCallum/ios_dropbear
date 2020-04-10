@@ -1,5 +1,8 @@
-# iOS Dropbear SSH
+# Modification for 32-bit Devices
+Based on a tutorial by [Ivan Rodriguez](https://ivrodriguez.com/installing-dropbear-ssh-on-ios-10-3-3/) for installing DropBear on iOS 10.3.3
 
+
+# iOS Dropbear SSH
 This is a modified version of Matt Johnston's [dropbear](https://matt.ucc.asn.au/dropbear/dropbear.html) ssh daemon to be used on iOS in combination with exploits such as Ian Beer's [mach_portal](https://bugs.chromium.org/p/project-zero/issues/detail?id=965#c2).
 
 ## Installation
